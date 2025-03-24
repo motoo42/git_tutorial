@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1 line
 2 line
+=======
+first line
+second line
+>>>>>>> dca5c8050915ffd77b0cb58f7e9d4a0e30225dce
